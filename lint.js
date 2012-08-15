@@ -28,7 +28,8 @@ var data = {
     emit:     [ "name", "string", "value", "*" ],
 
     // Extending the API
-    extend:   [ "name", "string", "options", "object" ]
+    extend:   [ "name", "string", "options", "object" ],
+    use:      [ "name", "string", "options", "object" ]
 };
 
 module.exports = function lint(vfs) {

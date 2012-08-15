@@ -1,6 +1,6 @@
 {
   "name": "vfs-lint",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple API lint wrapper for vfs instances.",
   "main": "lint.js",
   "scripts": {
